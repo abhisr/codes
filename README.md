@@ -1,7 +1,5 @@
-# codes
-## COMMENTS
 
-1. Defining churn in strict terms is tricky, as the customer can come back anytime, as evident from data later.
+1. Defining churn in strict terms is tricky, as the customer can come back anytime, as evident from data .
 2. **Demographic data about the user is missing**, limiting the Approaches to model the churn.
 3. Distribution of Time suggests that it is in UTC and neets to be shifted by 5.5 hours to align with Indian timings.
 4. 95% of users have done 33 or less trnsactions. Users can be segmented based on no of transcations, Aggregate value of transactions, and may be, by timing or transacations.
